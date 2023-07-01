@@ -29,10 +29,7 @@ My coding projects reflect my personality: playful, creative, and always looking
 
 ### 📊 Stats
 <a href="https://github.com/douglas-yokomizo/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=douglas-yokomizo" />
-</a>
-<a href="https://github.com/douglas-yokomizo/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=douglas-yokomizo&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=douglas-yokomizo&theme=gotham" />
 </a>
 <a>
   <img align="center" src="https://github.com/douglas-yokomizo/douglas-yokomizo/blob/output/github-contribution-grid-snake.svg">
