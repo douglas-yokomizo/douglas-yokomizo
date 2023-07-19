@@ -32,7 +32,7 @@ My coding projects reflect my personality: playful, creative, and always looking
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=douglas-yokomizo&theme=gotham" />
 </a>
 <a>
-  <img align="center" src="https://github.com/douglas-yokomizo/douglas-yokomizo/blob/output/github-contribution-grid-snake.svg">
+  ![snake gif](https://github.com/douglas-yokomizo/blob/output/github-contribution-grid-snake.svg)
 </a>
 
 #
