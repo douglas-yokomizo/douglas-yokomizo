@@ -31,9 +31,7 @@ My coding projects reflect my personality: playful, creative, and always looking
 <a href="https://github.com/douglas-yokomizo/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=douglas-yokomizo&theme=gotham" />
 </a>
-<a>
-  ![snake gif](https://github.com/douglas-yokomizo/blob/output/github-contribution-grid-snake.svg)
-</a>
+<a href= "https://github.com/douglas-yokomizo/blob/output/github-contribution-grid-snake.svg"> </a>
 
 #
  
