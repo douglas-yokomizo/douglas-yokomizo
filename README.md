@@ -1,6 +1,6 @@
 # 🧗🏻 Douglas Yokomizo
 
-**`Digital Craftsman (Developer/Former Financial Analyst)`**
+**`Digital Mason (Developer/Former Financial Analyst)`**
 
 Hi there, I'm a former financial analyst who decided to switch gears and become a frontend developer. Why? Because I love creating beautiful and functional websites that make people happy. And also because I hate spreadsheets. Seriously, they give me nightmares.😱
 
